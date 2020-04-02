@@ -57,13 +57,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Personas/Usuarios**:  Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
-
+**Estilo de narración**  Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada o Realidad Virtual que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
 
 
 ### Etapa 2: Prototipar / productos 
