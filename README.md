@@ -1,7 +1,5 @@
 ## (Mementos)  
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
@@ -13,13 +11,14 @@ Univesidad de Granada
 
 **Autor(es)** : Patricia Jarpa Candia
 
-**Resumen** : Con internet y la tecnología hoy los mensajes entre personas son practicamente inmediatos...¿qué valor adquiere entonces el mensaje a través del tiempo?. Mementos se proyecta como una herramienta que permite grabar mensajes, videos o audios georeferenciados que pemita a otros descubrir la historia alrededor de un lugar.
+**Resumen** :  Utilizando la metáfora del "mensaje en la botella", con este proyecto se propone crear un espacio virtual donde se puedan compartir mensajes, no para hoy sino para el futuro. Pequeñas cápsulas audiovisuales, fotográficas o textuales que conformen un lugar colaborativo donde otros más tarde puedan acceder a las memorias, reflexiones y cultura propias de un lugar y de un tiempo específico.
+
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): "Nuestras memorias son tu historia"
 
-**Hashtag**  ___
+**Hashtag**  
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -53,9 +52,9 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria.     
 
-**Personas/Usuarios**:  Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por presevar la memoria digital
+**Personas/Usuarios**:  Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
