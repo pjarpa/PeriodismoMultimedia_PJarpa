@@ -53,7 +53,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria.     
+**Motivación de la propuesta** Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía de Mementos.    
 
 **Personas/Usuarios**:  Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
