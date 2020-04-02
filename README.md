@@ -51,7 +51,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** En una época de inmediatez y brevedad, los mensajes se han vuelto cada vez más efímeros y desechables, pero un mensaje a través del tiempo puede adquirir un valor relevante para generaciones futuras que pueden aprender con ello más de nuestro tiempo, de nuestra cultura o de nuestros pensamientos. Un pueblo sin memoria es un pueblo sin historia.
 
 **Motivación de la propuesta** Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía tras Mementos.    
 
