@@ -14,7 +14,8 @@ Univesidad de Granada
 **Resumen** :  Utilizando la metáfora del "mensaje en la botella", con este proyecto se propone crear un espacio virtual donde se puedan compartir mensajes, no para hoy sino para el futuro. Pequeñas cápsulas audiovisuales, fotográficas o textuales que conformen un lugar colaborativo donde otros más tarde puedan acceder a las memorias, reflexiones y cultura propias de un lugar y de un tiempo específico.
 
 
-**logotipo** :  ________
+**logotipo** : ![](images/Logo_Mementos.jpg)
+
 
 **Slogan** (frase motivadora/inspiradora): "Nuestras memorias son tu historia"
 
