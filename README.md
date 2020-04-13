@@ -11,10 +11,10 @@ Univesidad de Granada
 
 **Autor(es)** : Patricia Jarpa Candia
 
-**Resumen** :  Utilizando la metáfora del "mensaje en la botella", con este proyecto se propone crear un espacio virtual donde se puedan compartir mensajes, no para hoy sino para el futuro. Pequeñas cápsulas audiovisuales, fotográficas o textuales que conformen un lugar colaborativo donde otros más tarde puedan acceder a las memorias, reflexiones y cultura propias de un lugar y de un tiempo específico.
+**Resumen** :  Utilizando la metáfora del "mensaje en la botella", con este proyecto se propone crear una app para móviles basada en geolocalización y realidad aumentada donde se podrá compartir mensajes, no para hoy sino para el futuro. Pequeñas cápsulas audiovisuales, fotográficas o textuales que conformen un lugar colaborativo donde otros más tarde puedan acceder a las memorias, reflexiones y cultura propias de un lugar y de un tiempo específico.
 
 
-**logotipo** : ![](images/Logo_Mementos.jpg)
+**Logotipo** : ![](images/Logo_Mementos.jpg)
 
 
 **Slogan** (frase motivadora/inspiradora): "Tus recuerdos son historia"
@@ -86,7 +86,7 @@ Pantalla de subida de nuevo mensaje:
 
 * Publicidad: banner (... ) 
 
-* Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 mes.
+* Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
