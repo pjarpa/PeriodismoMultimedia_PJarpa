@@ -66,19 +66,27 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Imagen visual (Diseño de Interfaz de APP para móvil): 
 
-Pantalla de inicio:  ![](images/1_Mementos_Login.jpg) 
+Pantalla de inicio:  
 
-Pantalla de Mapa: ![](images/2_Mementos_Mapa.jpg) 
+![](images/1_Mementos_Login.jpg) 
 
-Pantalla de Lugar Seleccionado: ![](images/3_Mementos_Detalle_Lugar.jpg)
+Pantalla de Mapa: 
 
-Pantalla de subida de nuevo mensaje: ![](images/4_Mementos_Nuevo_Mensaje.jpg)
+![](images/2_Mementos_Mapa.jpg) 
 
-* redes sociales (...) 
+Pantalla de Lugar Seleccionado: 
 
-* publicidad: banner (... ) 
+![](images/3_Mementos_Detalle_Lugar.jpg)
 
-* ...
+Pantalla de subida de nuevo mensaje: 
+
+![](images/4_Mementos_Nuevo_Mensaje.jpg)
+
+* Redes sociales:  Presencia en Twitter, Instagram, Youtube y Vimeo.
+
+* Publicidad: banner (... ) 
+
+* Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 mes.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
