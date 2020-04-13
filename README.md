@@ -64,7 +64,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Diseño de Interfaz de APP para móvil): 
+
+Pantalla de inicio:  ![](images/1_Mementos_Login.jpg) 
+
+Pantalla de Mapa: ![](images/2_Mementos_Mapa.jpg) 
+
+Pantalla de Lugar Seleccionado: ![](images/3_Mementos_Detalle_Lugar.jpg)
+
+Pantalla de subida de nuevo mensaje: ![](images/4_Mementos_Nuevo_Mensaje.jpg)
 
 * redes sociales (...) 
 
