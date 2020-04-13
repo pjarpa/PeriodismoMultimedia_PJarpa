@@ -17,9 +17,9 @@ Univesidad de Granada
 **logotipo** : ![](images/Logo_Mementos.jpg)
 
 
-**Slogan** (frase motivadora/inspiradora): "Nuestras memorias son tu historia"
+**Slogan** (frase motivadora/inspiradora): "Tus recuerdos son historia"
 
-**Hashtag**  
+**Hashtag**  #timecapsule #recuerdos #realidadaumentada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
