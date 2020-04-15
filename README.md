@@ -123,7 +123,11 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* [Experiments with Google](https://experiments.withgoogle.com/)
+* [Experiments with Google: AR Experiments](https://experiments.withgoogle.com/collection/ar)
+* [Awwards-The awards of design, creativity and innovation on the internet](https://www.awwwards.com/)
+* [ARCore - build new augmented reality experiences](https://developers.google.com/ar/)
+* [Chris Milk - Interactve Work](http://milk.co/interactive)
+
 
 * (Productos utilizados) 
 
