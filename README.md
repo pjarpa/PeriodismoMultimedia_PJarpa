@@ -85,7 +85,7 @@ Pantalla de subida de nuevo mensaje:
 * Redes sociales:  Presencia en Twitter, Instagram, Youtube y Vimeo.
 
 * Publicidad: 
-![]((images/banner_mementos.jpg)
+![](images/banner_mementos.jpg)
 
 * Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
