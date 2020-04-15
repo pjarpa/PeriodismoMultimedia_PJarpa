@@ -26,7 +26,7 @@ Univesidad de Granada
 **Fecha** : 2020
 
 **Medios** (donde se tiene presencia):
-* WebPage (github url): [Mementos] https://pjarpa.github.io/
+* WebPage (github url): [Mementos](https://pjarpa.github.io/)
 * iOS APP, Android APP
 * Sitio Web
 * Twitter
