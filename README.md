@@ -129,7 +129,7 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Chris Milk - Interactve Work](http://milk.co/interactive)
 
 
-* (Productos utilizados) 
+**Productos utilizados 
 
 [Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
 [Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
