@@ -129,14 +129,14 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Chris Milk - Interactve Work](http://milk.co/interactive)
 
 
-**Productos utilizados 
+**Productos utilizados** : 
 
-[Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
-[Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
-[Sketch - Plataforma de diseño](https://www.sketch.com/)
-[Coda 2 - Editor de código web](https://panic.com/coda/)
-[Github](https://github.com/)
-[Trello](https://trello.com/patriciajarpa1/boards)
+* [Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
+* [Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
+* [Sketch - Plataforma de diseño](https://www.sketch.com/)
+* [Coda 2 - Editor de código web](https://panic.com/coda/)
+* [Github](https://github.com/)
+* [Trello](https://trello.com/patriciajarpa1/boards)
 
 
 
