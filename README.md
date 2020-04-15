@@ -28,7 +28,6 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia):
 * WebPage (github url): [Mementos](https://pjarpa.github.io/)
 * iOS APP, Android APP
-* Sitio Web
 * Twitter
 * Instagram
    
@@ -89,38 +88,32 @@ Pantalla de subida de nuevo mensaje:
 
 * Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
+* Programación de prototipo de APP
+Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Proyecto en fase de construcción.
+
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
+* El prototipo de la APP Mementos será evaluada en una primera fase a través de la APP de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) que permitirá obtener feedback de los usuarios que accedan al contenido de prueba.
+* La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la app, además de habilitar un formulario de contacto en la misma página del proyecto [Mementos](https://pjarpa.github.io/)
 
 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Grado de consecución del proyecto:
+Mementos pretende ser una app innovadora en su campo de interés y acción. Si bien existen actualmente aplicaciones que funcionan como "Cápsulas del tiempo" o herramientas de mensajes diferidos en el tiempo, estás están destinadas máss bien se orientan a un consumo personal y particular, no colaborativo ni menos como una forma de aporte social. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
+
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion) 
+En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto. Además se debe trabajar aún en el desarrollo de flujo de interfaz de usuario (UI) que permita una mejor planificación de los recursos y los tiempos para el desarrollo de la app.
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+Es un proyecto que tiene un gran potencial de desarrollo, si bien en su inicio podría ser limitada en cuanto a sus funcionalidades, ésta puede ser de gran interés para el público que se interese por su uso y que encuentre en ella novedosas formas de aplicar el contenido de Realidad Aumentada creada en este sistema en otros campos de interés como la educación o la investigación.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
+Posibles colaboradores podrían ser diseñadores y programadores que se sientan motivados a trabajar en un equipo colaborativo para la producción de una app de estas características, teniendo en cuenta que para la generación de este producto es factible utilizar herramientas open source  que disminuyan los costos de implementación y no sea tan difícil su distribución para su testeo en un grupo de usuarios de prueba. También se apuesta a captar eventuales inversores que podrían encontrar alguna utilidad en las funcionalidades de Memento, ya sea estamentos públicos o privados como museos, organizaciones educativas o de promoción del turismo.
 
 ----
 
@@ -130,12 +123,17 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
+* [Experiments with Google](https://experiments.withgoogle.com/)
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* (Productos utilizados) 
+
+[Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
+[Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
+[Sketch - Plataforma de diseño](https://www.sketch.com/)
+[Coda 2 - Editor de código web](https://panic.com/coda/)
+[Github](https://github.com/)
+[Trello](https://trello.com/patriciajarpa1/boards)
+
 
 
 
