@@ -88,8 +88,8 @@ Pantalla de subida de nuevo mensaje:
 
 * Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
-* Programación de prototipo de APP
-Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Proyecto en fase de construcción.
+* Programación de prototipo de APP:
+Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Etapa en fase de construcción.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -107,7 +107,7 @@ Mementos pretende ser una app innovadora en su campo de interés y acción. Si b
 
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion) 
-En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto. Además se debe trabajar aún en el desarrollo de flujo de interfaz de usuario (UI) que permita una mejor planificación de los recursos y los tiempos para el desarrollo de la app.
+En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de los recursos y los tiempos para el desarrollo de la app.
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 Es un proyecto que tiene un gran potencial de desarrollo, si bien en su inicio podría ser limitada en cuanto a sus funcionalidades, ésta puede ser de gran interés para el público que se interese por su uso y que encuentre en ella novedosas formas de aplicar el contenido de Realidad Aumentada creada en este sistema en otros campos de interés como la educación o la investigación.
