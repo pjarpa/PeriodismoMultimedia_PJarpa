@@ -74,7 +74,7 @@ Utilizando las redes sociales como vía de generación de contenido, geolocaliza
 
 **Análisis funcional de la app**: 
 
-*Esquema de análisis:
+*Esquema de análisis*:
 
 ![](images/Analisis-Funcional-Mementos.jpg)
 
