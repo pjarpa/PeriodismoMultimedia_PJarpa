@@ -33,7 +33,8 @@ Univesidad de Granada
 * Yotube
 * Vimeo
    
-   
+----
+
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
@@ -117,6 +118,7 @@ Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) p
 * El prototipo de la APP Mementos será evaluada en una primera fase a través de la APP de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) que permitirá obtener feedback de los usuarios que accedan al contenido de prueba.
 * La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la app, además de habilitar un formulario de contacto en la misma página del proyecto [Mementos](https://pjarpa.github.io/)
 
+----
 
 ### Conclusiones y trabajo futuro
 
