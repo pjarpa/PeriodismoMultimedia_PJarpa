@@ -21,7 +21,7 @@ Univesidad de Granada
 
 **Hashtag**  #timecapsule #recuerdos #realidadaumentada
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**  :  CC BY-NC-SA 
 
 **Fecha** : 2020
 
