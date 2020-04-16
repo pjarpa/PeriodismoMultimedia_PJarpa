@@ -66,21 +66,28 @@ Utilizando las redes sociales como vía de generación de contenido, geolocaliza
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+* Análisis funcional de la app: 
+
+Esquema de análisis:
+
+![](images/Analisis-Funcional-Mementos.jpg)
+
+
 * Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)
 
-Pantalla de inicio:  
+*Pantalla de inicio:  
 
 ![](images/1_Mementos_Login.jpg) 
 
-Pantalla de Mapa: 
+*Pantalla de Mapa: 
 
 ![](images/2_Mementos_Mapa.jpg) 
 
-Pantalla de Lugar Seleccionado: 
+*Pantalla de Lugar Seleccionado: 
 
 ![](images/3_Mementos_Detalle_Lugar.jpg)
 
-Pantalla de subida de nuevo mensaje: 
+*Pantalla de subida de nuevo mensaje: 
 
 ![](images/4_Mementos_Nuevo_Mensaje.jpg)
 
