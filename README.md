@@ -149,7 +149,7 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Awwards-The awards of design, creativity and innovation on the internet](https://www.awwwards.com/)
 * [ARCore - build new augmented reality experiences](https://developers.google.com/ar/)
 * [Six Top Tools to Build Augmented Reality Mobile Apps](https://www.infoq.com/articles/augmented-reality-best-skds/)
-* [Chris Milk - Interactve Work](http://milk.co/interactive)
+* [Chris Milk - Interactive Work](http://milk.co/interactive)
 * [Qué es y para que sirve un análisis funcional](https://www.fhios.es/para-que-sirve-un-analisis-funcional/)
 * [Front End & Back End Development](https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start)
 
