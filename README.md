@@ -21,7 +21,7 @@ Univesidad de Granada
 
 **Hashtag**  #timecapsule #recuerdos #realidadaumentada
 
-**Licencia**  :  CC BY-NC-SA ![](images/88x31.png)
+**Licencia**  :   ![](images/88x31.png) CC BY-NC-SA
 
 **Fecha** : 2020
 
@@ -49,21 +49,24 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * "Imaginary Soundscape" (https://experiments.withgoogle.com/imaginary-soundscape). Es una instalación de sonido basada en la web, que se centra en este comportamiento inconsciente, donde los espectadores pueden caminar libremente por Google Street View y sumergirse en paisajes sonoros imaginarios generados con modelos de aprendizaje profundo. Este proyecto ha servido de inspiración para la creación de nuevos espacios virtuales en base de un lugar real.
 
 
+**Necesidad/oportunidad** 
+En una época de inmediatez y brevedad, los mensajes se han vuelto cada vez más efímeros y desechables, pero un mensaje a través del tiempo puede adquirir un valor relevante para generaciones futuras que pueden aprender con ello más de nuestro tiempo, de nuestra cultura o de nuestros pensamientos. Un pueblo sin memoria es un pueblo sin historia.
 
-**Necesidad/oportunidad** En una época de inmediatez y brevedad, los mensajes se han vuelto cada vez más efímeros y desechables, pero un mensaje a través del tiempo puede adquirir un valor relevante para generaciones futuras que pueden aprender con ello más de nuestro tiempo, de nuestra cultura o de nuestros pensamientos. Un pueblo sin memoria es un pueblo sin historia.
+**Motivación de la propuesta** 
+Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía tras Mementos.    
 
-**Motivación de la propuesta** Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía tras Mementos.    
+**Personas/Usuarios**:  
+Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
-**Personas/Usuarios**:  Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
-
-**Estilo de narración**  Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada o Realidad Virtual que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
+**Estilo de narración**  
+Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
 
 
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Diseño de Interfaz de APP para móvil): 
+* Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)
 
 Pantalla de inicio:  
 
@@ -93,7 +96,7 @@ Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) p
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+(Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone) 
 
 * El prototipo de la APP Mementos será evaluada en una primera fase a través de la APP de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) que permitirá obtener feedback de los usuarios que accedan al contenido de prueba.
 * La presencia del proyecto en Redes Sociales (Twitter, Instagram) permitirán abrir un canal de comunicación con los usuarios de la app, además de habilitar un formulario de contacto en la misma página del proyecto [Mementos](https://pjarpa.github.io/)
@@ -103,11 +106,10 @@ Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) p
 
 
 * Grado de consecución del proyecto:
-Mementos pretende ser una app innovadora en su campo de interés y acción. Si bien existen actualmente aplicaciones que funcionan como "Cápsulas del tiempo" o herramientas de mensajes diferidos en el tiempo, estás están destinadas máss bien se orientan a un consumo personal y particular, no colaborativo ni menos como una forma de aporte social. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
-
+Mementos pretende ser una app innovadora en su campo de interés y acción. Si bien existen actualmente aplicaciones que funcionan como "Cápsulas del tiempo" o herramientas de mensajes diferidos en el tiempo, estás más bien se orientan a un consumo personal y particular, no colaborativo ni menos como una forma de aporte social. El plus además de la inclusión de la Realidad Aumentada como componente tecnológico, propone una forma interesante de enriquecer la experiencia de los usuarios de redes sociales, potenciando la experiencia no sólo en el campo digital sino también en el mundo real.
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion) 
-En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de los recursos y los tiempos para el desarrollo de la app.
+En esta primera fase de propuesta las principales dificultades han sido los conocimientos técnicos y uso de herramientas, tanto de software como de hardware disponibles para concretar el proyecto en realidad aumentada. Además se debe trabajar aún en el desarrollo adecuado de flujo de interfaz de usuario (UI) que permita una mejor planificación de la experiencia de usuario (UE), de los recursos y los tiempos para el desarrollo de la app.
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 Es un proyecto que tiene un gran potencial de desarrollo, si bien en su inicio podría ser limitada en cuanto a sus funcionalidades, ésta puede ser de gran interés para el público que se interese por su uso y que encuentre en ella novedosas formas de aplicar el contenido de Realidad Aumentada creada en este sistema en otros campos de interés como la educación o la investigación.
@@ -119,6 +121,8 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 
 **Referencias y recursos utilizados** :
 
+*Referencias*
+
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
@@ -126,15 +130,18 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Experiments with Google: AR Experiments](https://experiments.withgoogle.com/collection/ar)
 * [Awwards-The awards of design, creativity and innovation on the internet](https://www.awwwards.com/)
 * [ARCore - build new augmented reality experiences](https://developers.google.com/ar/)
+* [Six Top Tools to Build Augmented Reality Mobile Apps](https://www.infoq.com/articles/augmented-reality-best-skds/)
 * [Chris Milk - Interactve Work](http://milk.co/interactive)
+* [Qué es y para que sirve un análisis funciona](https://www.fhios.es/para-que-sirve-un-analisis-funcional/)
 
 
-**Productos utilizados** : 
+*Productos utilizados*: 
 
 * [Aumentaty - Software de creación de contenidos con realidad aumentada ](http://www.aumentaty.com/index.php)
 * [Skope - App para visualización de contenido en RA](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US)
-* [Sketch - Plataforma de diseño](https://www.sketch.com/)
+* [Sketch - Plataforma de diseño gráfico](https://www.sketch.com/)
 * [Coda 2 - Editor de código web](https://panic.com/coda/)
+* [Scapple - Mapa de conceptos](https://www.literatureandlatte.com/scapple/overview)
 * [Github](https://github.com/)
 * [Trello](https://trello.com/patriciajarpa1/boards)
 
