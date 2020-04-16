@@ -30,6 +30,8 @@ Univesidad de Granada
 * iOS APP, Android APP
 * Twitter
 * Instagram
+* Yotube
+* Vimeo
    
    
 ### Metodología
@@ -58,7 +60,7 @@ Todas las generaciones están unidas por algunas vivencias que van más allá de
 **Personas/Usuarios**:  
 Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
-**Estilo de narración**  
+**Estilo de narración**:
 Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
 
 
@@ -91,15 +93,16 @@ Esquema de análisis:
 
 ![](images/4_Mementos_Nuevo_Mensaje.jpg)
 
-* Redes sociales:  Presencia en Twitter, Instagram, Youtube y Vimeo.
-
 * Publicidad: 
 ![](images/banner_mementos.jpg)
 
 * Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
+* Visualización de prototipo: Para explicar las funcionalidades de la APP y realizar un primer testeo de usuarios se ha creado una presentación disponible en la Web de [Mementos](https://pjarpa.github.io/)
+
+
 * Programación de prototipo de APP:
-Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Etapa en fase de construcción.
+Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Etapa aún en fase de construcción.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
