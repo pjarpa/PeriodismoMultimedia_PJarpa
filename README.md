@@ -68,14 +68,14 @@ Utilizando las redes sociales como vía de generación de contenido, geolocaliza
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Análisis funcional de la app: 
+**Análisis funcional de la app**: 
 
-Esquema de análisis:
+*Esquema de análisis:
 
 ![](images/Analisis-Funcional-Mementos.jpg)
 
 
-* Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)
+**Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)**
 
 *Pantalla de inicio:  
 
@@ -93,16 +93,17 @@ Esquema de análisis:
 
 ![](images/4_Mementos_Nuevo_Mensaje.jpg)
 
-* Publicidad: 
+**Publicidad**: 
 ![](images/banner_mementos.jpg)
 
-* Integración de Medios: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
+**Integración de Medios**: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
 
-* Visualización de prototipo: Para explicar las funcionalidades de la APP y realizar un primer testeo de usuarios se ha creado una presentación disponible en la Web de [Mementos](https://pjarpa.github.io/) y realizada con herramientas digitales de creación de contenido audivisual y web como [Keynote](https://www.apple.com/keynote/), [Adobe Premiere](https://www.adobe.com/es/products/premiere.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340831002958!e!!g!!adobe%20premiere), [After Effects](https://www.adobe.com/es/products/aftereffects.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859134298!e!!g!!after%20effects) y [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
+**Visualización de prototipo**: Para explicar las funcionalidades de la APP y realizar un primer testeo de usuarios se ha creado una presentación disponible en la Web de [Mementos](https://pjarpa.github.io/) y realizada con herramientas digitales de creación de contenido audivisual y web como [Keynote](https://www.apple.com/keynote/), [Adobe Premiere](https://www.adobe.com/es/products/premiere.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmKVr-f-qO2F457a8P5b5suklSkl3_UMS_SZCwGQH3BEqYnxsWhqU9hoCBJsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340831002958!e!!g!!adobe%20premiere), [After Effects](https://www.adobe.com/es/products/aftereffects.html?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE&sdid=8DN85NTQ&mv=search&ef_id=CjwKCAjwhOD0BRAQEiwAK7JHmNEtYyzbHxPOh7i5NC16nAzmaLRA0Z-5NcYdmSWFmrpkHDgoa1IQIhoCEfMQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859134298!e!!g!!after%20effects) y [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
 
 
-* Programación de prototipo de APP:
+**Programación de prototipo de APP**:
 Utilización de software libre [Aumentaty](http://www.aumentaty.com/index.php) para el desarrollo de la experiencia en RA (Realidad aumentada) y de [Skope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=en_US) para la visualización de contenidos a través del móvil. Primera fase de desarrollo para experimentar con las posibilidades de la realidad aumentada en plataformas iOS y Android. Etapa aún en fase de construcción.
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
