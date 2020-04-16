@@ -14,7 +14,7 @@ Univesidad de Granada
 **Resumen** :  Utilizando la metáfora del "mensaje en la botella", con este proyecto se propone crear una app para móviles basada en geolocalización y realidad aumentada donde se podrá compartir mensajes, no para hoy sino para el futuro. Pequeñas cápsulas audiovisuales, fotográficas o textuales que conformen un lugar colaborativo donde otros más tarde puedan acceder a las memorias, reflexiones y cultura propias de un lugar y de un tiempo específico.
 
 
-**Logotipo** : ![](images/Logo_Mementos.jpg)
+**Logotipo**: ![](images/Logo_Mementos.jpg)
 
 
 **Slogan** (frase motivadora/inspiradora): "Tus recuerdos son historia"
@@ -152,6 +152,8 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 * [Scapple - Mapa de conceptos](https://www.literatureandlatte.com/scapple/overview)
 * [Github](https://github.com/)
 * [Trello](https://trello.com/patriciajarpa1/boards)
+
+
 
 
 
