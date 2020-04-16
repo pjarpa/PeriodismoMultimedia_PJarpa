@@ -52,15 +52,19 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 **Necesidad/oportunidad**:
+
 En una época de inmediatez y brevedad, los mensajes se han vuelto cada vez más efímeros y desechables, pero un mensaje a través del tiempo puede adquirir un valor relevante para generaciones futuras que pueden aprender con ello más de nuestro tiempo, de nuestra cultura o de nuestros pensamientos. Un pueblo sin memoria es un pueblo sin historia.
 
 **Motivación de la propuesta**:
+
 Todas las generaciones están unidas por algunas vivencias que van más allá del plano personal, de cuyos recuerdos se genera una memoria colectiva. Este legado de símbolos, relatos, narraciones e imágenes no sólo actúan como medios de preservacion de la memoria sino también ayudan a construir una identidad comunitaria. Conservar esas memorias en un espacio digital al alcance de todos es la filosofía tras Mementos.    
 
 **Personas/Usuarios**:  
+
 Al ser un proyecto que se nutre de la colaboración de todas las personas, esta idea se destina a cualquiera que tenga interés por aportar y nutrir la memoria colectiva de un lugar o espacio específico.
 
 **Estilo de narración**:
+
 Utilizando las redes sociales como vía de generación de contenido, geolocalización y tecnologías de Realidad Aumentada que permitan la experiencia de acceso e inmersión dentro de estas cápsulas del tiempo enlazadas a una localización en específico: por ejemplo una plaza, un parque, un monumento o un barrio. Una suerte de mapa interactivo de recuerdos en la red. 
 
 
@@ -77,23 +81,24 @@ Utilizando las redes sociales como vía de generación de contenido, geolocaliza
 
 **Diseño Visual de la APP para móvil (tratamiento gráfico de los elementos de la interfaz)**
 
-*Pantalla de inicio:  
+*Pantalla de inicio*:  
 
 ![](images/1_Mementos_Login.jpg) 
 
-*Pantalla de Mapa: 
+*Pantalla de Mapa*: 
 
 ![](images/2_Mementos_Mapa.jpg) 
 
-*Pantalla de Lugar Seleccionado: 
+*Pantalla de Lugar Seleccionado*: 
 
 ![](images/3_Mementos_Detalle_Lugar.jpg)
 
-*Pantalla de subida de nuevo mensaje: 
+*Pantalla de subida de nuevo mensaje*: 
 
 ![](images/4_Mementos_Nuevo_Mensaje.jpg)
 
-**Publicidad**: 
+**Publicidad**:
+
 ![](images/banner_mementos.jpg)
 
 **Integración de Medios**: Mementos es una app para móviles que ocupará redes sociales para la generación de contenido geolocalizado y la tecnología de Realidad Aumentada para visitar lugares donde se despliegue este contenido. Los usuarios podrán subir su contenido geolocalizado desde la aplicación de móviles para compartirla con otros usuarios. El usuario podrá decidir que su mensaje sea publicado con una delación de 1 día hasta 1 año.
@@ -132,7 +137,7 @@ Posibles colaboradores podrían ser diseñadores y programadores que se sientan 
 
 **Referencias y recursos utilizados** :
 
-*Referencias*
+*Referencias*:
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
